@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "KOREA"
+title                    : "ADD N"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "L E E"
 description              : "An amazing website."
 url                      : "https://riot5.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
