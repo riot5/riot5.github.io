@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "c++  레퍼런스  "
+title:  "c++  레퍼런스 ~ 클래스   "
 ---
 
 **레퍼런스
