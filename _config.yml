@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  #name             : "LCH"
+  name             : "LCH"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "" Efforts always pays off ""
+  bio              : " Efforts always pays off "
   location         : " KOREA "
   email            : " riot555@naver.com"
   links:
